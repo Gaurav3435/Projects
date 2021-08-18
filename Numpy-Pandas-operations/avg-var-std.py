@@ -1,14 +1,16 @@
-# Importing the NumPy module
+#Gaurav patil A-33
+ 
+# # Importing the NumPy module
 import numpy as np
   
 # Taking a list of elements
 list = [2, 40, 2, 502, 177, 7, 9]
   
 # Calculating average using average()
-print(np.average(list))
+print("Avergae:\n",np.average(list))
 
 # Calculating variance using var()
-print(np.var(list))
+print("Variance:\n",np.var(list))
 
 # deviation using var()
-print(np.std(list))
+print("Deviation:\n",np.std(list))

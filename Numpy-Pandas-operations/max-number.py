@@ -1,3 +1,4 @@
+#Gaurav Patil A-33
 import numpy as np
 import random
 m = np.array([1,10,3,4,6])

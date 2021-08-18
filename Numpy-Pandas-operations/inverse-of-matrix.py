@@ -1,3 +1,5 @@
+#Gaurav Patil A-33
+
 import numpy as np
  
 A = np.array([[6, 1, 1],
